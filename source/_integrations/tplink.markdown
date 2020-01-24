@@ -30,6 +30,8 @@ The following devices are known to work with this component.
 
 ### Plugs
 
+Plugs are type `switch` when not using autodiscovery.
+
 - HS100
 - HS103
 - HS105
